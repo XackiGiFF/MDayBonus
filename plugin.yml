@@ -1,0 +1,11 @@
+---
+name: MDayBonus
+version: 1.0.0
+main: XackiGiFF\MDayBonus\Main
+api: 4.0.0
+src-namespace-prefix: XackiGiFF\MDayBonus
+permissions:
+  mday.bonus:
+    default: true
+    description: Получить ежедневный бонус
+...
